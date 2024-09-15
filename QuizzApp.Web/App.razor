@@ -139,7 +139,7 @@ else
         timeoutPerQuestion = TimeSpan.FromSeconds(gameConfiguration.QuestionTimeout);
 
         messages.Clear();
-        WriteMessage($"Quizz has started. Prepare to answer {gameConfiguration.NumberOfQuestions} trivia questions!");
+        WriteMessage($"Quizz has started. Prepare to answer {gameConfiguration.NumberOfQuestions} questions!");
     }
 
     void QuizzCompleted(QuizzCompletedEvent @event)
