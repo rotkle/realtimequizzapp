@@ -16,5 +16,10 @@ namespace QuizzApp.Pages
         {
 
         }
+
+        public async Task OnPostAsync(string quizzId)
+        {
+            Redirect("/Quizz");
+        }
     }
 }

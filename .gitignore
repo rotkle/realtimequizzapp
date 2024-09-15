@@ -6,3 +6,5 @@
 /QuizzApp/.vs/QuizzApp
 /QuizzApp/bin/Debug/net6.0
 /QuizzApp/obj
+/QuizzApp.Web/bin/Debug/net6.0
+/QuizzApp.Web/obj
