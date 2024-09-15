@@ -141,8 +141,6 @@ namespace QuizzApp.Services
 
                             return (playerState, answer);
                         }
-
-                        // REVIEW: We can tell the player the choice in invalid here
                     }
                 }
                 catch

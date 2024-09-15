@@ -24,9 +24,9 @@ namespace QuizzApp.Services
         public async Task<Quizz> AddPlayerToQuizzAsync(HubCallerContext hubCallerContext)
         {
             // There's already a quizz associated with this player, just return it
-            if (hubCallerContext.Items[_quizzKey] is Quizz g)
+            if (hubCallerContext.Items[_quizzKey] is Quizz q)
             {
-                return g;
+                return q;
             }
 
             while (true)
