@@ -8,3 +8,7 @@
 /QuizzApp/obj
 /QuizzApp.Web/bin/Debug/net6.0
 /QuizzApp.Web/obj
+/QuizzApp/bin/Debug/net7.0
+/QuizzApp.Share/bin/Debug/net7.0
+/QuizzApp.Share/obj
+/QuizzApp.Web/bin/Debug/net7.0
