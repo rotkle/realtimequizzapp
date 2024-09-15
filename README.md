@@ -19,7 +19,7 @@
 
 # Data Flow
 
-![image](https://github.com/user-attachments/assets/0db8199d-f25c-4317-9f7a-ff8a6750dcdb)
+![image](https://github.com/user-attachments/assets/0d948dbe-78d4-41da-bbd3-afadf9c5882d)
 
 # Technologies and Tools
 This project will be implement in .Net framework and C# using Visual Studio v19. The SNS service will be implement using SignalR which support Websocket protocol to update Quizz contents in real-time, SignalR also compatible with .Net framework and easy to setup.
